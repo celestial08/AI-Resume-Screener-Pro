@@ -1,0 +1,5 @@
+resume_screener.db
+
+__pycache__/
+
+*.pyc
