@@ -9,8 +9,9 @@ AI-powered Resume Screening System built using Python, Streamlit, SQLite, and NL
 * Candidate Ranking
 * Missing Skills Detection
 * Skill Match Percentage
-* Email & Phone Extraction
-* Interview Question Generation
+* Email Extraction
+* Phone Number Extraction
+* Interview Question Generator
 * CSV Export
 * Analytics Dashboard
 
@@ -21,6 +22,18 @@ AI-powered Resume Screening System built using Python, Streamlit, SQLite, and NL
 * SQLite
 * Pandas
 * PyPDF2
+* Regex
+
+## How It Works
+
+1. Upload Resume PDF
+2. Extract Resume Text
+3. Analyze Skills
+4. Calculate ATS Score
+5. Detect Missing Skills
+6. Rank Candidates
+7. Generate Interview Questions
+8. Provide Smart Recommendations
 
 ## Author
 
